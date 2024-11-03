@@ -25,7 +25,7 @@
     }
 
     const student1 = new Student("Mr. student", 20, "Uganda");
-    student1.
+    student1
 
 
     class Teacher extends Person {
@@ -42,6 +42,6 @@
     }
 
     const teacher = new Teacher("Mr. teacher", 40, "Uganda", "professor");
-    teacher.
+    teacher
     //
   }
